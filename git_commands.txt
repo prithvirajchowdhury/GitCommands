@@ -1,3 +1,15 @@
 1)To clone a repository : git clone
 
+2)To veiw information about remote repo : git remote -v 
+
+3)To view all branches of the repository : git branch -a
+
+4)To initialize a git repo : git init
+
+5)To add files to the staging area: git add <filename>
+
+6)To remove files from staging: git reset <filename>
+
+ 
+
 		
