@@ -18,6 +18,14 @@
 
 10)To switch to a branch : git checkout <branch_name>
 
- 
+11)To pull others changes: git pull origin <branch_name> 
+
+12)To see merged branch : git branch --merged
+
+13)To merge a branch with master:git merge <branch_name>
+
+14)to push you changes: git push origin <branch_name>
+
+
 
 		
