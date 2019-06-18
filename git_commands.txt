@@ -28,4 +28,6 @@
 
 15)To undo changes : git checkout -- <fileName> for all files git checkout -- .
 
-		
+16)To revert commited changes: git revert <commit_id> | git revert -n <commit_id>
+
+17)To reset to a particular commit id: git reset --hard <commit_id>		
