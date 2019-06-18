@@ -28,4 +28,4 @@
 
 15)To undo changes : git checkout -- <fileName> for all files git checkout -- .
 
-16)		
+		
